@@ -1,0 +1,10 @@
+# Local database configuration
+includes/db.php
+
+# Local environment files
+.env
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
